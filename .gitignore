@@ -1,0 +1,10 @@
+.DS_Store
+input data/nodes-addresses.csv
+input data/nodes-entities.csv
+input data/nodes-intermediaries.csv
+input data/nodes-officers.csv
+input data/nodes-others.csv
+input data/relationships.csv
+!input data
+output data/officer_entity_intermediary.csv
+notebooks/.ipynb_checkpoints
